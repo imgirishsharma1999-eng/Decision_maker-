@@ -1,5 +1,4 @@
 # enhanced_decision_app.py
-import streamlit_pwa as pwa
 import streamlit as st
 import pandas as pd
 
